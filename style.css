@@ -1,0 +1,32 @@
+body{
+   background-color: white;
+   style="font-family: 'Lato', sans-serif;"
+}
+h1{
+
+  text-shadow: 1px 1px 3px black;
+font-family: 'Lato', sans-serif;
+
+}
+ h2{
+  font-family: 'Slabo 27px', serif;
+  color: #4E4695;
+ 
+  font-size: 30px;
+}
+p {
+  color: black;
+  font-family: 'Slabo 27px', serif;
+ 
+  font-size: 20px;
+  font-weight: lighter;
+}
+.ref{
+  background-color:#81B29A;border-radius:35px;
+  min-width: 300px;
+}
+.reg
+{
+   background-color:#F2CC8F;border-radius:35px;
+  min-width: 300px;
+}
